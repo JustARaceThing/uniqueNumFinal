@@ -1,0 +1,15 @@
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.csproj.AssemblyReference.cache
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.AssemblyInfoInputs.cache
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.AssemblyInfo.cs
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.csproj.CoreCompileInputs.cache
+D:\School\Assignments\PrefAssess\week5\final\bin\Debug\net6.0\final.exe
+D:\School\Assignments\PrefAssess\week5\final\bin\Debug\net6.0\final.deps.json
+D:\School\Assignments\PrefAssess\week5\final\bin\Debug\net6.0\final.runtimeconfig.json
+D:\School\Assignments\PrefAssess\week5\final\bin\Debug\net6.0\final.dll
+D:\School\Assignments\PrefAssess\week5\final\bin\Debug\net6.0\final.pdb
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.dll
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\refint\final.dll
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.pdb
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\final.genruntimeconfig.cache
+D:\School\Assignments\PrefAssess\week5\final\obj\Debug\net6.0\ref\final.dll
